@@ -2,7 +2,7 @@
 % BER_simulation: This program simulate the bit error rate for a BPSK
 % constellation with the signal to noise ratio.
 % Copyright (C) 2025  Mohammad Safa
-% GitHub Repository: https://github.com/mhr8/Const_Geom_Rep
+% GitHub Repository: https://github.com/mhr98/Const-Geom-Rep
 % 
 % This program is free software: you can redistribute it and/or modify
 % it under the terms of the GNU General Public License as published by
