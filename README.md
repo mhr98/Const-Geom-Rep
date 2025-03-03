@@ -1,8 +1,6 @@
 # Constellation Diagram and The Geometric Representation of Digital Signals
 
-This project is from a tutorial that demonstrates how digital and wireless communication systems work using MATLAB. It begins with an overview of the general system architecture, then it illustrate the transmitter section, covering key processes such as modulation, pulse shaping, and upconversion. The signal is then saved as a sound file, transmitted wirelessly, and recorded again in MATLAB for receiver processing. Finally, it demonstrate the receiver-side operations, including downconversion, matched filtering, synchronization, and channel estimation.
-
-The main goal is to provide an intuitive understanding of these systems using simple and primitive processing techniques. Although we do not explore complex algorithms, the fundamental principles remain the same across all communication systems. I hope this video inspires you and interest in the subject and encourages further study.
+This video illustrates the geometric representation of digital signals, which is a fundamental topic in digital communication systems and it is considered the foundation to understand any digital modulation scheme.
 
 See More Detailes section below to find the video.
 
