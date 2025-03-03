@@ -1,6 +1,6 @@
 # Constellation Diagram and The Geometric Representation of Digital Signals
 
-This video illustrates the geometric representation of digital signals, which is a fundamental topic in digital communication systems and it is considered the foundation to understand any digital modulation scheme.
+This tutorial illustrates the geometric representation of digital signals, which is a fundamental topic in digital communication systems and it is considered the foundation to understand any digital modulation scheme.
 
 See More Detailes section below to find the video.
 
